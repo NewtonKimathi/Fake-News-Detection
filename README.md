@@ -31,8 +31,6 @@ Nltk
 
 Re
 
-## PROJECT DEMO / REPORT
-
 
 ## ACKNOWLEDGEMENTS
 

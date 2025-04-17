@@ -15,7 +15,7 @@
 
 ## PROJECT DESCRIPTION
 
-This project seeks to build a machine learning that detects whether a news article is real or fake. The model is trained on labeled news data to help fight misinformation.
+This project seeks to build a machine learning model that detects whether a news article is real or fake. The model is trained on labeled news data to help fight misinformation.
 Having incorporated Natural Language Processing, which is key to this project, we were able to analyze news content and create a machine learning model.
 
 ## REQUIREMENTS
